@@ -18,12 +18,12 @@ const Navber = () => {
                     </div>
                     <div className='w-8/12'>
                         <ul className='flex gap-x-10  justify-center'>
-                            <Link to='/home'><Lists items='Home' /></Link>
-                            <Link to='/tours'><Lists items='Tours' /></Link>
-                            <Link to='/booking'><Lists items='Booking' /></Link>
-                            <Link to='/pages'><Lists items='Pages' /></Link>
-                            <Link to='/features'><Lists items='Features' /></Link>
-                            <Link to='/blog'><Lists items='Blog' /></Link> 
+                            <Link to='/'><Lists items='Home' /></Link>
+                            <Link to='/'><Lists items='Tours' /></Link>
+                            <Link to='/'><Lists items='Booking' /></Link>
+                            <Link to='/'><Lists items='Pages' /></Link>
+                            <Link to='/'><Lists items='Features' /></Link>
+                            <Link to='/'><Lists items='Blog' /></Link> 
                         </ul>
 
                     </div>
